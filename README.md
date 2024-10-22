@@ -1,2 +1,2 @@
-# CI-CD-DEMO
+# ci-cd-demo
 Demo CI/CD
